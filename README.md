@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 3 problems · 1 labs · 0 math
+**5** solved · 4 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-14 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-14 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-14 | [solution](problems/0003-reshape-matrix) |
+| [Run the Digit Network Forward](https://www.deep-ml.com/problems/1994) | easy | 2026-11-15 | [solution](problems/1994-run-the-digit-network-forward) |
 
 ## Labs
 
